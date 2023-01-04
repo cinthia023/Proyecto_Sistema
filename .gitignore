@@ -83,6 +83,6 @@ Homestead.json
 /vendor
 .env
 /public/.htaccess
-/storage
+
 storage/*.key
 #siñora
